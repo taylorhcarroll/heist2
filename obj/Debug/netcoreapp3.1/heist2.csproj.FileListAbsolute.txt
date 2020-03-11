@@ -1,0 +1,10 @@
+/Users/taylorcarroll/workspace/C37/heist2/bin/Debug/netcoreapp3.1/heist2.deps.json
+/Users/taylorcarroll/workspace/C37/heist2/bin/Debug/netcoreapp3.1/heist2.runtimeconfig.json
+/Users/taylorcarroll/workspace/C37/heist2/bin/Debug/netcoreapp3.1/heist2.runtimeconfig.dev.json
+/Users/taylorcarroll/workspace/C37/heist2/bin/Debug/netcoreapp3.1/heist2.dll
+/Users/taylorcarroll/workspace/C37/heist2/bin/Debug/netcoreapp3.1/heist2.pdb
+/Users/taylorcarroll/workspace/C37/heist2/obj/Debug/netcoreapp3.1/heist2.csprojAssemblyReference.cache
+/Users/taylorcarroll/workspace/C37/heist2/obj/Debug/netcoreapp3.1/heist2.AssemblyInfoInputs.cache
+/Users/taylorcarroll/workspace/C37/heist2/obj/Debug/netcoreapp3.1/heist2.AssemblyInfo.cs
+/Users/taylorcarroll/workspace/C37/heist2/obj/Debug/netcoreapp3.1/heist2.dll
+/Users/taylorcarroll/workspace/C37/heist2/obj/Debug/netcoreapp3.1/heist2.pdb
