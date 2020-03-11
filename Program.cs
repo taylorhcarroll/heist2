@@ -81,7 +81,7 @@ namespace heist2
                 {
                     break;
                 }
-                // while (true)
+                while (true)
                 {
                     Console.Write("What is their speciality? Hackers disable alarms, Muscle handles the guards, and Lockspec cracks the vault.");
                     var newMemberSpeciality = Console.ReadLine();
